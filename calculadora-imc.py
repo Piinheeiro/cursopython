@@ -5,4 +5,5 @@ imc = peso / (altura ** 2)
 if imc < 18.5:
     print("Você está abaixo do peso.")
 print(f"Seu IMC é: {imc:.2f}")
- 
+
+print("Classificação do IMC:") 
